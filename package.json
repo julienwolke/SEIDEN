@@ -1,0 +1,21 @@
+{
+  "name": "seiden",
+  "version": "1.0.0",
+  "description": "Developing a  groundbreaking decentralized platform empowering newcomers in the e-commerce industry. By pooling resources and leveraging collective buying power, members can access better pricing and large-scale orders without significant upfront investments or the burden of managing complex orders.\r # Features\r - Product Proposal Submission: Users can submit product proposals with key details like minimum order quantity, buying price, and selling price.\r - Democratic Decision-making: Members vote on product proposals to collectively decide on funding.\r - Order Management: An experienced order manager handles the logistics, allowing members to focus on their core businesses.\r - Blockchain-backed Transparency: The platform offers unparalleled transparency and security, enabling members to track their investments and returns with ease.\r # Benefits\r - Unlock access to large-scale orders and better pricing.\r - Democratize the e-commerce market, making it accessible to newcomers.\r - Eliminate the hassle of order management for inexperienced users.\r - Ensure transparent and secure tracking of funds via blockchain technology.\r Join us in revolutionizing the e-commerce landscape and empowering countless new businesses to flourish. E-Commerce DAO – the future of e-commerce, made simple.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "ecommerce",
+    "dao"
+  ],
+  "author": "Julien Wolke",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.8.3"
+  }
+}
